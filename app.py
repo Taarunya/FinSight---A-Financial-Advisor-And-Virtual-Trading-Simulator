@@ -71,6 +71,7 @@ st.markdown("""
     .feature-pills {
         margin-top: 25px;
     }
+
     
     .feature-pill {
         display: inline-block;
